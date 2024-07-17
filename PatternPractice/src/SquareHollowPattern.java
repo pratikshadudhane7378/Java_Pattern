@@ -23,7 +23,7 @@ public class SquareHollowPattern {
 		
 	}
 	public static void main(String args[]) {
-	 int n = 6;
+	 int n = 7;
 		printpattern(n);
 	}
 	
